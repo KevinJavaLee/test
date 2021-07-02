@@ -1,3 +1,6 @@
 hello world
 hot-fix 
+<<<<<<< HEAD
 hot-fix master
+hot-fix  
+hot-fix
